@@ -9,4 +9,6 @@ terraform {
 # Provider Block
 provider "aws" {
   region  = var.aws_region
+access_key =  "AKIA32PH3AC5Y7QXBIPN"
+secret_key = "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"
 }
